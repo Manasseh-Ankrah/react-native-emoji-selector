@@ -91,7 +91,7 @@ const TabBar = ({ theme, activeCategory, onPress, width }) => {
             style={{
               textAlign: "center",
               paddingBottom: 8,
-              fontSize: tabSize - 24,
+              fontSize: tabSize - 15,
             }}
           >
             {category.symbol}
